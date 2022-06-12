@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    margin-top: 1px;
+    color:black;
+    background-color: #212629;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}

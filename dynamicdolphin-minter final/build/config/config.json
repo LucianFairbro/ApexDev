@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x64bc34993bf0396a802e62aa981e27749a880fe4",
+  "SCAN_LINK": "https://polygonscan.com/token/0x64bc34993bf0396a802e62aa981e27749a880fe4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID":137
+  },
+  "NFT_NAME": "Dynamic Dolphins",
+  "SYMBOL": "DD",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dynamicdolphins",
+  "SHOW_BACKGROUND": true
+}

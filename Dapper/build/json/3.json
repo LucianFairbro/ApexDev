@@ -1,0 +1,26 @@
+{
+  "name": "Apex Cards #3",
+  "description": "Exchange these cards for help from our team!",
+  "image": "https://apexcards.s3.amazonaws.com/black/3.png",
+  "attributes": [
+    {
+      "trait_type": "CardColor",
+      "value": "BlackCardArtboard 1"
+    },
+    {
+      "trait_type": "TextColor",
+      "value": "SilverTextArtboard 1"
+    },
+    {
+      "trait_type": "NumberColor",
+      "value": "BlackHour5Artboard 1"
+    }
+  ],
+  "custom_fields": {
+    "dna": "cd7bfe9903b622cb96725c8ace220fca47019ecc",
+    "edition": 3,
+    "date": 1654194329825,
+    "compiler": "Apex Development"
+  },
+  "external_url": "apexnftdevelopment.com"
+}

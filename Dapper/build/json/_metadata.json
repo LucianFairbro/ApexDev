@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Apex Cards #1",
+    "description": "Exchange these cards for help from our team!",
+    "image": "https://apexcards.s3.amazonaws.com/black/1.png",
+    "attributes": [
+      {
+        "trait_type": "CardColor",
+        "value": "BlackCardArtboard 1"
+      },
+      {
+        "trait_type": "TextColor",
+        "value": "SilverTextArtboard 1"
+      },
+      {
+        "trait_type": "NumberColor",
+        "value": "BlackHour1Artboard 1"
+      }
+    ],
+    "custom_fields": {
+      "dna": "b7e5cc1636db3fd681097de7b283409d5788b263",
+      "edition": 1,
+      "date": 1654194329691,
+      "compiler": "Apex Development"
+    },
+    "external_url": "apexnftdevelopment.com"
+  },
+  {
+    "name": "Apex Cards #2",
+    "description": "Exchange these cards for help from our team!",
+    "image": "https://apexcards.s3.amazonaws.com/black/2.png",
+    "attributes": [
+      {
+        "trait_type": "CardColor",
+        "value": "BlackCardArtboard 1"
+      },
+      {
+        "trait_type": "TextColor",
+        "value": "SilverTextArtboard 1"
+      },
+      {
+        "trait_type": "NumberColor",
+        "value": "BlackHour4Artboard 1"
+      }
+    ],
+    "custom_fields": {
+      "dna": "26b3320c3b646db304fe7c8cf989b9c62e3b98bd",
+      "edition": 2,
+      "date": 1654194329759,
+      "compiler": "Apex Development"
+    },
+    "external_url": "apexnftdevelopment.com"
+  },
+  {
+    "name": "Apex Cards #3",
+    "description": "Exchange these cards for help from our team!",
+    "image": "https://apexcards.s3.amazonaws.com/black/3.png",
+    "attributes": [
+      {
+        "trait_type": "CardColor",
+        "value": "BlackCardArtboard 1"
+      },
+      {
+        "trait_type": "TextColor",
+        "value": "SilverTextArtboard 1"
+      },
+      {
+        "trait_type": "NumberColor",
+        "value": "BlackHour5Artboard 1"
+      }
+    ],
+    "custom_fields": {
+      "dna": "cd7bfe9903b622cb96725c8ace220fca47019ecc",
+      "edition": 3,
+      "date": 1654194329825,
+      "compiler": "Apex Development"
+    },
+    "external_url": "apexnftdevelopment.com"
+  },
+  {
+    "name": "Apex Cards #4",
+    "description": "Exchange these cards for help from our team!",
+    "image": "https://apexcards.s3.amazonaws.com/black/4.png",
+    "attributes": [
+      {
+        "trait_type": "CardColor",
+        "value": "BlackCardArtboard 1"
+      },
+      {
+        "trait_type": "TextColor",
+        "value": "SilverTextArtboard 1"
+      },
+      {
+        "trait_type": "NumberColor",
+        "value": "BlackHour2Artboard 1"
+      }
+    ],
+    "custom_fields": {
+      "dna": "3cbc1e917cf24d0b847b8a0bbc1c2280509b796d",
+      "edition": 4,
+      "date": 1654194329897,
+      "compiler": "Apex Development"
+    },
+    "external_url": "apexnftdevelopment.com"
+  },
+  {
+    "name": "Apex Cards #5",
+    "description": "Exchange these cards for help from our team!",
+    "image": "https://apexcards.s3.amazonaws.com/black/5.png",
+    "attributes": [
+      {
+        "trait_type": "CardColor",
+        "value": "BlackCardArtboard 1"
+      },
+      {
+        "trait_type": "TextColor",
+        "value": "SilverTextArtboard 1"
+      },
+      {
+        "trait_type": "NumberColor",
+        "value": "BlackHour3Artboard 1"
+      }
+    ],
+    "custom_fields": {
+      "dna": "e843ff018aa133d666c10ca78a9fc8c7f86fea56",
+      "edition": 5,
+      "date": 1654194329961,
+      "compiler": "Apex Development"
+    },
+    "external_url": "apexnftdevelopment.com"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x006097a1893eaa57b3263e90628106059286b59e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x006097a1893eaa57b3263e90628106059286b59e",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Matic",
+    "ID":4
+  },
+  "NFT_NAME": "Dynamic Dolphins",
+  "SYMBOL": "DD",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dynamicdolphins",
+  "SHOW_BACKGROUND": true
+}
